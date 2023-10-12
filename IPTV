@@ -1,0 +1,42 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/caracoltv.png",caracoltv
+https://250weu.bozztv.com/ssh101/ssh101/chatytvgratis/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.chatytvgratishd.me/wp-content/uploads/2023/04/banner_cablenoticias-1.png?w=480&ssl=1",cable-noticias
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/chunklist_w927475175.m3u8
+#EXTINF:-1 tvg-logo="https://images.canal1.com.co/site/images/logo_1_como_tu_color.png",CANAL UNO
+https://mdstrm.com/video/623b80ccaeb2e7082d3b008a.m3u8?uid=nNlL7cXbtdoYBkfWJr2bsMA7GE37nEn1&sid=2uzLn4XzAqBIs9AuUyFE32AHlZ3YW3CG&pid=3OzIyWqgoZoUNP52rHTrm0InyV8uiPLL&an=screen&at=web-app&av=v5.2.379&ref=https%3A%2F%2Fcanal1.com.co%2F&res=834x469&without_cookies=false&listenerid=&dnt=true
+
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/caracoltv.png",CARACOL TV
+https://250weu.bozztv.com/ssh101/ssh101/chatytvgratis/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/la1.png",TVE 1
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_360.m3u8
+#EXTINF:-1 tvg-logo="RTV_INTERNAL_LOGO://Picturebox2",TVE 24H
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/la1.png",TVE 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/mission-impossible-dead-reckoning-part-one-1689741889.png",MISION IMPOSIBLE 
+https://server27.mxcdnab.online/newhls/65e3e2a6229dd302b0c85d297998f886/EP.0.0.v1.1691903765.720.m3u8
+#EXTINF:-1 tvg-logo="https://www.senalcolombia.tv/themes/custom/colombia_subtheme/img/nuevo_home/logo.svg",SEÑAL  COLOMBIA 
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/hbo.png",HBO
+http://video.elezoria.online:8081/3981/hls/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDIzIDExOjUxOjM5IEFNJmhhc2hfdmFsdWU9bHhSRWNERThuZ3lrd3NiSk9XcnQ0dz09JnZhbGlkbWludXRlcz0yMjA=
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/Univision.png",UNIVISION P
+http://172.232.171.138/solcruel/get.php?id=313133204c41543a20556e69766973696f6e204844&type=master.m3u8
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/national-geographic.png",NATGEO
+http://172.232.171.138/solcruel/get.php?id=3138342045533a204e6174696f6e616c2047656f67726170686963204844&type=master.m3u8
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/gourmet.png",gourmet
+http://video.elezoria.online:8081/4012/hls/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDIzIDEwOjE2OjAzIEFNJmhhc2hfdmFsdWU9R211Z1hPY3RSYjVsbVJDSzYxWUY1Zz09JnZhbGlkbWludXRlcz0yMjA=
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/discovery-theater.png",NATGEO WILD
+acestream://394354a04edd738876b8b2ecab15d4765d33b37f
+#EXTINF:-1 tvg-logo="https://telefullenvivo.nl/imagenes2/star-channel.png",STAR PLUS
+http://video.elezoria.online:8081/4000/hls/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDIzIDEyOjUxOjE1IFBNJmhhc2hfdmFsdWU9MzluZGFhZ1lKSTNzMkhGUGdSNDVXZz09JnZhbGlkbWludXRlcz0yMjA=
+#EXTINF:-1 tvg-logo="https://telefullenvivo.nl/imagenes2/discovery-channel.png",DISCOVERY 
+
+http://173.255.201.122/saw/get.php?id=3137372045533a20446973636f76657279204368616e6e656c204844&type=master.m3u8
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.nl/imagenes2/discovery-hh.png",DISCOVERY HOME AND HEALT
+
+http://172.232.171.138/solcruel/get.php?id=333232204c41543a20486f6d6520616e64204865616c7468204844&type=master.m3u8
