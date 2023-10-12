@@ -1,0 +1,45 @@
+#EXTM3U 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/la3.png",ANTENA 3
+https://latele-envivo.com/Spain/antena3
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/la3.png",ANTENA 3 op2
+https://telefullenvivo.com/antena-3-online-en-directo/
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/la1.png",TVE1 
+ https://latele-envivo.com/Spain/tve1/
+ 
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/la1.png",TVE1 OP2
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_360.m3u8
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/la1.png",TVE1 OP3
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/la4.png",CUATRO
+https://latele-envivo.com/Spain/lacuatro/
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.nl/imagenes2/la5.png",TELE 5
+https://telefullenvivo.nl/telecinco-online-en-directo/
+
+
+
+#EXTINF:-1 tvg-logo="https://latele-envivo.com/imagenes/la6.png",LA SEXTA
+https://latele-envivo.com/Spain/lasexta/
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/national-geographic.png",NATGEO
+https://telefullenvivo.com/national-geographic-en-vivo/
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.chatytvgratishd.me/wp-content/uploads/2014/11/banner_caracol.png?w=480&ssl=1",caracolHD
+https://cdn.chatytvgratis.net/caracol03x.php
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.chatytvgratishd.me/wp-content/uploads/2014/11/banner_caracol.png?w=480&ssl=1",caracolHD 2
+https://video-weaver.mia05.hls.live-video.net/v1/playlist/CskF0NTme6124wWDtRo6jG_yjr32J4SksfSZnuE5y9LwG1WueQRvvcYrexTKPRAPKwP3FcmawPDjbLI6NxWv8FFJm8qSATVEJYbyCcCvXC-KG7_W1f5T8c-LaRKi-pJscVRl1ATc_np5-Rfk2IMXucbOEa18bSC_GZ-s-E-hrozTBOE06zaEt-iiCQAel9r1xN5wKVCWWyYb2KZWezrVByqpTOZ9z-f5-cvYUQ1FdInMy0UPWq3kok0FGlpIPyH4ikEIwVzsdO3JGv6mK8kHloWEeaTfbTezV3uzW1rL5Low84EM53cY6Jc9HbBl8AS_AbGugM2wpB3lWQrKi4tAsws-SniJE4bdXOs9EKBkJjCeMAdZIAN6oKZ12qUUsD2SvayJD-mbPi2GRbrZVb99cr2EdP4tAf30jKZ9I4nodo3vkdqRGega_ADg92G2UTYOQhiJJUQP272XKd9Sd_yHhRg_4QvCg_WrjX76AbeaqxNs_oAisISyG14CuGRdaK-gy1plK9fK0JMKdheNswSVEaYzb0hr88C_93JCgq2F6Xy0q94HB6WDnfdEEmPjb3u7fY8paoWRH7CrVq9QsZbPqtgg1iC7o1XnZbYt4YgGTW0zWiup9ZpVvDkVj9vXvi_X2L-1A2D_WVo-qjdQ09pDA4BCsoKxpnDWeohUyg4RQ3UvYyEhzRxro5SokxytDCV1ugpWN7VqCNtuMUWbre1Fhb2xQSSobSdcj4DpwmqLVYdmlURh-ODdgv6s8JtEvv4n_nSmaMtf0h-8FDP-UdtkYUwCKe_oZdTELEVLvj70wz_azOfx6Wd1NrsgSVC877jTdnkCI7Y3e8a_FtsSWR9NPXkvxodqbDjqV1GkW-hzaOgi05iib4gA1grFJkCoVKEpyEnVQEEbpzKcmPA8aBuHPripjZ73IOjsDrOONH7iznhtXK9V7ICltTFo-H4aDHX_q1sLkVXvMks2TyABKgl1cy1lYXN0LTIw3Ac.m3u8
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/caracoltv.png",caracoltv
+https://telefullenvivo.com/caracol-tv-en-vivo/
+
+#EXTINF:-1 tvg-logo="",
