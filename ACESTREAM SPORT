@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://futbolfullenvivo.nl/imagenes/dazn1es.png",DAZN[DE] 
+acestream://897e73c9d578848f596585314ecb9ae067c0e229
+
+#EXTINF:-1 tvg-logo="https://futbolfullenvivo.nl/imagenes/dazn2es.png",DAZN 2[DE]  
+acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 tvg-logo="https://futbolfullenvivo.nl/imagenes/skysportsfootball.png",Sky Sport FB
+acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1 tvg-logo="https://futbolfullenvivo.nl/imagenes/skysportspremierleague.png",Sky Sport 1
+acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eurosport_1_hd_black.jpg",Eurosport 1 HD [DE]
+acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
+#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eurosport_1_hd_black.jpg",Eurosport 2 HD [DE]
+acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+#EXTINF:-1 tvg-logo="https://futbolfullenvivo.nl/imagenes/skysportsmainevent.png",sky sports main event
+acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-logo="https://futbolfullenvivo.nl/imagenes/skysportsfootball.png",sky sports football
+acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/1200px-Sport-Digital.svg.png",Sport Digital[DE]
+acestream://5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222222327_skysportarena.jpg",sky sports arena
+acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt",sky sports 1HD
+acestream://7c12288663069a12aff58f3f62e8ea47ab78c65d
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt",sky sports 2HD
+acestream://fc9f1f580da8f641a5991d44b399982a3a069f69
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/Eurosport-logo-E3F6A32147-seeklogo.com.png",EURO SPORT 360 HD2[DE]
+acestream://57f95543ac41656d473b1a27123fc413388a728c
+#EXTINF:-1 tvg-logo="https://postimg.cc/tYFtcgw3",Liga de Campeones [1080][MultiAudio]
+acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+#EXTINF:-1 tvg-logo="https://postimg.cc/QBwDSydZ",DAZN LaLiga 1080 [MultiAudio]
+acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/z/sports-logo-26799407.jpg",TELEPACIFICO
+#f84de8a5ca4288f4b8f567b69d94cdc38a35e874
