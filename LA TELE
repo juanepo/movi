@@ -42,5 +42,6 @@ https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.19
 
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/caracoltv.png",caracoltv
 https://telefullenvivo.com/caracol-tv-en-vivo/
-
+#EXTINF:-1 tvg-logo="https://telefullenvivo.nl/imagenes2/star-channel.png",star-action
+https://www.tvplusgratis.com/star-action-en-vivo.html
 #EXTINF:-1 tvg-logo="",
