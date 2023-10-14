@@ -1102,8 +1102,8 @@
 	},
 
 	{
-	"name":"RED BULL TV",
-	"image":"https://i.postimg.cc/8cmv0KdL/Redbull-Tv-new.png",
+	"name":"TELE PAGINAS",
+	"image":"https://cx-images.s3.amazonaws.com/mh/ssv2/faqs/cartoon-arm-around-v2.gif",
 	"stations":
 		[
 			{
@@ -1112,18 +1112,15 @@
 			"image": "https://telefullenvivo.nl/imagenes2/HGTV.png",
 			"url": "https://www.tvplusgratis.com/"
 			},
+			"image": "https://cx-images.s3.amazonaws.com/mh/ssv2/faqs/cartoon-arm-around-v2.gif",
+"url": "",
+"embed":true},
 			{
-			"name": "Red Bull TV",
+			"name": "telefullenvivo",
 			"info":"",
-			"image": "https://i.postimg.cc/fThn7HgB/Redbull.png",
-			"url": "acestream://f1e1e9cce7297a749a5bb2e75c1520f9ce73a83b"
-			},
-			{
-			"name": "Red Bull TV HD",
-			"info":"",
-			"image": "https://i.postimg.cc/fThn7HgB/Redbull.png",
-			"url": "acestream://647d19df70ee35100d0e95bc62ddebeebec1fabb"
-			},
+			"image": "https://cx-images.s3.amazonaws.com/mh/ssv2/faqs/cartoon-arm-around-v2.gif",
+			""url": "https://telefullenvivo.nl/",
+"embed":true},
 			{
 			"name": "Red Bull TV UHD",
 			"info":"",
