@@ -29,14 +29,17 @@ acestream://57f95543ac41656d473b1a27123fc413388a728c
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfQ1LMZP/logo-spain.png",CANALES ESPAÑA
 #EXTINF:-1 tvg-logo="https://postimg.cc/tYFtcgw3",Liga de Campeones [1080][MultiAudio]
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
-#EXTINF:-1 tvg-logo="https://postimg.cc/QBwDSydZ",DAZN LaLiga 1080 [MultiAudio]
+#EXTINF:-1 tvg-logo="https://futbolfullenvivo.nl/imagenes/dazn-laliga1.png",DAZN LaLiga 1080 [MultiAudio]
 acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
+#EXTINF:-1 tvg-logo="https://futbolfullenvivo.nl/imagenes/dazn-laliga1.png",• DAZN 1 LA LIGA 1080
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 tvg-logo="https://futbolfullenvivo.nl/imagenes/dazn-laliga1.png",• DAZN 1 LA LIGA 720
+acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 #EXTINF:-1 tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAgVBMVEVHcEzlYl7nYl3nYl3mYl3XgUvnYl3mY13nYl1Cpy1Dpy1Cpywpo3REpy3umSjsjTVEpy0foYc+qCxDpypDpyxDpy3oYV3vlSz2swL1swH2swECnrr1swD1swD2swEAnrgAnrgAnrr2tQEAnrgBnrgBn7gBnrj1swIAnrj1swD1swBybpJ2AAAAK3RSTlMAMOHG/weOcaNxxpAM/w4e6iAzYtukY0AuxpA25f9r1f9jS+qZccOl4dTAVTAa4AAAAXVJREFUeAGE0YVyhDAYBODFuSMJ7t6ev/8DdkMHKmffDGOR/bPgL8M0Dbxi2baFJxzX8uDato/dPhCPD9suPA+BlHL/L9myVGiT6QCIJMViv09+H/adZQPSFJkkkf++Rm/Q8XaRSJnwkwH+bFC+7zCoCCGyTCBOE8DJc4FVqIDidwFJlgIixjeHCS5MpmxymSFghgAxnAzD/31Dzkko2AqwC/yTyq0Oz6YQ/8SSdli4plniTppFS0JVNwAMB/+IFg4Cttn1/YCCHf4zTjN2UkbvN+gI53EElghquu4Dd9rx84DF0NP9Myc6Qqt7GvDPPNEJWtNTVZ4rbNpD2050gKZ4RcPXnLE5TBcceIHAt9ABhu5Xm+1l3n63ps5nB6iGEOp6VYjnFhCHg8Dq1vN+PcpHxWlmHb4kYHXlBtXTFcPADsnhhhGr6npTYU8d6HOiWJzGGKutjgbHIw5LAfdUcxtw0PHH00F8DVcGVUPTjBlDysrSqCIA/4wg0LLT9DQAAAAASUVORK5CYII=",TELEPACIFICO
 acestream://f84de8a5ca4288f4b8f567b69d94cdc38a35e874
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2JDhKL1/eurosport1-new.png",EuroSport 1
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PxH32mh2/eurosport2-new.png", EuroSport 2
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 tvg-logo="RTV_INTERNAL_LOGO://Picturebox2",• DAZN 1 1080
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
+
 
