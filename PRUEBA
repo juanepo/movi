@@ -1131,7 +1131,11 @@
 "embed":true},
 {"name": " tucanaldepor ",
 "image": "https://i.postimg.cc/NfQ1LMZP/logo-spain.png",
-"url": "https://tucanaldeportivo.com/agenda.php",
+"url": "hhttps://tucanaldeportivo.com/canales.php",
+"embed":true},
+{"name": " tucanaldepor ",
+"image": "https://i.postimg.cc/NfQ1LMZP/logo-spain.png",
+"url": "https://raw.githubusercontent.com/juanepo/movi/main/LA%20TELEp",
 "embed":true},
 		]
 	}
