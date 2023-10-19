@@ -1116,18 +1116,22 @@
 
 	{
 	"name": "TV (ES)",
-	"image": "https://postimg.cc/rzYdP8VS",
+	"image": "https://i.postimg.cc/NfQ1LMZP/logo-spain.png",
 	"imageScale": "",
 	"info":"",
 	"stations":
 		[
-			{"name": " TV ESP ",
-"image": "https://postimg.cc/rzYdP8VSf",
+			{"name": " TELEGRATIS ",
+"image": "https://i.postimg.cc/NfQ1LMZP/logo-spain.png",
 "url": "https://www.telegratishd.com/",
 "embed":true},
-{"name": " TV ESP ",
-"image": "https://postimg.cc/rzYdP8VS",
+{"name": " TELEFULL ",
+"image": "https://i.postimg.cc/NfQ1LMZP/logo-spain.png",
 "url": "https://telefullenvivo.nl/",
+"embed":true},
+{"name": " tucanaldepor ",
+"image": "https://i.postimg.cc/NfQ1LMZP/logo-spain.png",
+"url": "https://tucanaldeportivo.com/agenda.php",
 "embed":true},
 		]
 	}
