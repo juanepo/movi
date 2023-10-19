@@ -1146,12 +1146,18 @@
 	"info":"",
 	"stations":
 		[
-			{
-			"name": "Nba Tv (US)",
-			"info":"ed95",
-			"image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
-			"url": "acestream://e72d03fb9694164317260f684470be9ab781ed95"
-			}
+			{"logo":"♦♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️",
+"name": "TEVE LATINA",
+"image": "https://www.gsmspain.com/foros/attach/14/148013.gif","info":"",
+"imageScale": "","stations":[
+{"name": "TEVE SPORT",
+"image": "https://salvatv.xyz/wp-content/uploads/2020/11/cropped-titulo-e1604298285344.png",
+"url": "https://futbolfullenvivo.nl/",
+"embed":true},
+{"name": " TV ESP ",
+"image": "https://cx-images.s3.amazonaws.com/mh/ssv2/faqs/cartoon-arm-around-v2.gif",
+"url": "",
+"embed":true},
 		]
 	}
 
