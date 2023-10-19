@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/caracoltv.png",caracoltv
-https://250weu.bozztv.com/ssh101/ssh101/chatytvgratis/playlist.m3u8
+http://172.233.218.187:8081/saxory/h1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.chatytvgratishd.me/wp-content/uploads/2023/04/banner_cablenoticias-1.png?w=480&ssl=1",cable-noticias
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/chunklist_w927475175.m3u8
