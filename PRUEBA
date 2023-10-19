@@ -1,6 +1,6 @@
 {
     "name": "PRUEBA",
-    "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+    "author": "JUAN",
     "url": "https://pastebin.com/LpW586A5",
     "image": "https://images3.alphacoders.com/595/595865.jpg",
     "telegram": "Lista_AF1CIONADOS",
@@ -1122,10 +1122,11 @@
 	"stations":
 		[
 			{
-			{"name": "TV ESP",
-"image": "https://cx-images.s3.amazonaws.com/mh/ssv2/faqs/cartoon-arm-around-v2.gif",
-"url": "https://www.telegratishd.com/",
-"embed":true},
+			"name": "Nba Tv (US)",
+			"info":"ed95",
+			"image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
+			"url": "acestream://e72d03fb9694164317260f684470be9ab781ed95"
+			}
 		]
 	}
 
