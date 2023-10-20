@@ -31,8 +31,12 @@ https://latele-envivo.com/Spain/lasexta/
 https://www.telegratishd.com/dmax-en-vivo.html
 #EXTINF:-1 tvg-logo="https://www.telegratishd.com/imge/odisea.png",odisea
 https://www.telegratishd.com/odisea-en-vivo.html
-#EXTINF:-1 tvg-logo="https://www.telegratishd.com/imge/odisea.png",liga-de-campeones
+#EXTINF:-1 tvg-logo="https://www.telegratishd.com/imge/movistarligadecampeones.png",liga-de-campeones
 https://www.telegratishd.com/movistar-liga-de-campeones-en-vivo.html
+#EXTINF:-1 tvg-logo="https://www.telegratishd.com/imge/beinlaliga.png",bein-la-liga
+https://www.telegratishd.com/bein-la-liga-en-vivo.html
+#EXTINF:-1 tvg-logo="https://www.telegratishd.com/imge/movistarligadecampeones.png",daznlaliga
+https://www.telegratishd.com/imge/daznlaliga.png
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qQmsSPW/Flag-map-of-Colombia-svg.png",CANALES LATININOS
 https://shorturl.at/ACLOX
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nhjdZqhJ/images.png",CANALES LATININOS
