@@ -24,24 +24,24 @@ https://latele-envivo.com/Spain/lacuatro/
 #EXTINF:-1 tvg-logo="https://telefullenvivo.nl/imagenes2/la5.png",TELE 5
 https://telefullenvivo.nl/telecinco-online-en-directo/
 
-
-
+#EXTINF:-1 tvg-logo="https://latele-envivo.com/imagenes/la6.png",LA SEXTA
+https://www.telegratishd.com/la-sexta-en-vivo.html
 #EXTINF:-1 tvg-logo="https://latele-envivo.com/imagenes/la6.png",LA SEXTA
 https://latele-envivo.com/Spain/lasexta/
 
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/national-geographic.png",NATGEO
+https://www.telegratishd.com/nat-geo-en-vivo.html
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/national-geographic.png",NATGEO
 https://telefullenvivo.com/national-geographic-en-vivo/
 
-
-
-
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.chatytvgratishd.me/wp-content/uploads/2014/11/banner_caracol.png?w=480&ssl=1",caracolHD
-https://s01.castamp.com/live/c1rg54rges/chunklist.m3u8?h=nVXjiw0da__O5L32ZhkAWA&e=1697124957&u=a1b341227f0ff00ba4f1aa90f4c38498&d=2a02_1210_5e88_2200_288d_22f5_8f40_5b3c
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.chatytvgratishd.me/wp-content/uploads/2014/11/banner_caracol.png?w=480&ssl=1",caracolHD 2
-https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.KzM67kcLn0Op.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6MTk2MjMzNzc1NTE4OmNoYW5uZWwvS3pNNjdrY0xuME9wIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8va2ljay5jb20saHR0cHM6Ly9wbGF5ZXIua2ljay5jb20saHR0cHM6Ly9hZG1pbi5raWNrLmNvbSxodHRwczovL3d3dy5nc3RhdGljLmNvbSIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50IjpmYWxzZSwiZXhwIjoxNjk3MTAwNzQ5fQ.qd7gGg33e8mOQZnlzsSaonIvj-b7HUWAcdwOYtegl73wmOsQ_NnMOVmzApSdbusVKZQi-lQE0Rwc8mHe-OCAh_cC6WvAlQPH8k7drh9qJAnhwtcpn7hk4cmKR-bU7NgB&player_version=1.19.0
+https://www.telegratishd.com/caracol-en-vivo.html
 
-#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/caracoltv.png",caracoltv
-https://telefullenvivo.com/caracol-tv-en-vivo/
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.chatytvgratishd.me/wp-content/uploads/2014/11/banner_caracol.png?w=480&ssl=1",caracolHD 2
+https://futbolfullenvivo.nl/caracoltv-en-vivo/
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.nl/imagenes2/star-channel.png",star-action
+https://www.telegratishd.com/star-channel-en-vivo.html
 #EXTINF:-1 tvg-logo="https://telefullenvivo.nl/imagenes2/star-channel.png",star-action
 https://www.tvplusgratis.com/star-action-en-vivo.html
 #EXTINF:-1 tvg-logo="",
