@@ -1,7 +1,7 @@
 {
-    "name": "PRUEBA ",
+    "name": "AcEStREAM iDs",
     "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-   "url": "https://github.com/juanepo/movi/blob/main/LA%20TELE",
+    "url": "https://pastebin.com/LpW586A5",
     "image": "https://images3.alphacoders.com/595/595865.jpg",
     "telegram": "Lista_AF1CIONADOS",
     "info": "Lista recopilada de Ids. bY. Lukas",
@@ -82,15 +82,18 @@
 			"image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
 			"url": "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
 			},
-			{"name": "LA SEXTA ",
-"image": "https://telefullenvivo.com/imagenes2/la3.png",
-"url": "https://www.telegratishd.com/antena-3-en-vivo.html",
-"embed":true},
-		{"name": " ANTENA 3 ",
-"image": "https://telefullenvivo.com/imagenes2/la6.png",
-"url": "hhttps://www.telegratishd.com/la-sexta-en-vivo.html",
-"embed":true},
-		
+			{
+			"name": "BARCA TV [720]",
+			"info": "3ba7",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png",
+			"url": "acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7"
+			},
+			{
+			"name": "ESPORT 3 CAT [1080]",
+			"info":"b132   ",
+			"image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg",
+			"url": "acestream://4c0e50c9cc4971479feb12cc46ab1f5dbce8b132"
+			},
 			{
 			"name": "REAL MADRID TV [1080]",
 			"info": "6dcd",
@@ -1112,29 +1115,18 @@
 	},
 
 	{
-	"name": "TV (ES)",
-	"image": "https://i.postimg.cc/NfQ1LMZP/logo-spain.png",
+	"name": "NBA TV (US)",
+	"image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
 	"imageScale": "",
 	"info":"",
 	"stations":
 		[
-			{"name": " TELEGRATIS ",
-"image": "https://i.postimg.cc/NfQ1LMZP/logo-spain.png",
-"url": "https://www.telegratishd.com/",
-"embed":true},
-{"name": " TELEFULL ",
-"image": "https://i.postimg.cc/NfQ1LMZP/logo-spain.png",
-"url": "https://telefullenvivo.nl/",
-"embed":true},
-{"name": " tucanaldepor ",
-"image": "https://i.postimg.cc/NfQ1LMZP/logo-spain.png",
-"url": "https://tucanaldeportivo.com/agenda.php",
-"embed":true},
-{"name": " tucanaldepor ",
-"image": "https://i.postimg.cc/NfQ1LMZP/logo-spain.png",
-"url": "https://pastebin.com/skUe87qx",
-"embed":true},
-
+			{
+			"name": "Nba Tv (US)",
+			"info":"ed95",
+			"image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
+			"url": "acestream://e72d03fb9694164317260f684470be9ab781ed95"
+			}
 		]
 	}
 
