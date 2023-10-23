@@ -24,7 +24,7 @@ https://latele-envivo.com/Spain/lacuatro/
 https://telefullenvivo.nl/telecinco-online-en-directo/
 
 #EXTINF:-1 tvg-logo="https://telefullenvivo.nl/imagenes2/la5.png",TELE 5
-https://cabletvhd.xyz/en-vivo/telecinco
+https://latele-envivo.com/canal-telecinco-online/
 #EXTINF:-1 tvg-logo="https://latele-envivo.com/imagenes/la6.png",LA SEXTA
 https://www.telegratishd.com/la-sexta-en-vivo.html
 #EXTINF:-1 tvg-logo="https://latele-envivo.com/imagenes/la6.png",LA SEXTA
@@ -40,22 +40,20 @@ https://www.telegratishd.com/bein-la-liga-en-vivo.html
 #EXTINF:-1 tvg-logo="https://www.telegratishd.com/imge/movistarligadecampeones.png",daznlaliga
 https://www.telegratishd.com/imge/daznlaliga.png
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qQmsSPW/Flag-map-of-Colombia-svg.png",CANALES LATININOS
-https://shorturl.at/ACLOX
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhjdZqhJ/images.png",CANALES LATININOS
-https://shorturl.at/uxRUX
+https://i.postimg.cc/NfQ1LMZP/logo-spain.png
+
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/national-geographic.png",NATGEO
 https://www.telegratishd.com/nat-geo-en-vivo.html
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/national-geographic.png",NATGEO OP2
 https://cabletvhd.xyz/en-vivo/natgeo
 
-#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/national-geographic.png",NATGEO OP3
-https://telefullenvivo.com/national-geographic-en-vivo/
+
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.chatytvgratishd.me/wp-content/uploads/2014/11/banner_caracol.png?w=480&ssl=1",caracolHD
 https://www.telegratishd.com/caracol-en-vivo.html
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.chatytvgratishd.me/wp-content/uploads/2014/11/banner_caracol.png?w=480&ssl=1",caracolHD 2
-https://futbolfullenvivo.nl/caracoltv-en-vivo/
+https://tucanaldeportivo.com/ver/caracol.php
 
 #EXTINF:-1 tvg-logo="https://telefullenvivo.nl/imagenes2/star-channel.png",star-channel
 https://www.telegratishd.com/star-channel-en-vivo.html
@@ -67,4 +65,85 @@ https://www.telegratishd.com/star-series-en-vivo.html
 
 #EXTINF:-1 tvg-logo="https://telefullenvivo.nl/imagenes2/star-channel.png",star-action
 https://www.tvplusgratis.com/star-action-en-vivo.html
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhjdZqhJ/images.png",CANALES DEPORTE
+https://i.postimg.cc/NfQ1LMZP/logo-spain.png
+ 
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/espn.png",espn
+https://futbolfullenvivo.nl/canales/espn/op3.php
+https://futbolfullenvivo.nl/canales/espn/op2.php
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/espn.png",espn2
+https://futbolfullenvivo.nl/canales/espn2/op3.php
+https://futbolfullenvivo.nl/canales/espn2/op2.php
+#EXTINF:-1 tvg-logo="https://futbolfullenvivo.nl/imagenes/espn3.png",espn3/
+https://futbolfullenvivo.nl/canales/espn3/op3.php
+https://futbolfullenvivo.nl/canales/espn3/op2.php
+#EXTINF:-1 tvg-logo="https://telefullenvivo.nl/imagenes2/espn.png",espn telerium
+https://www.teleriumtv.run/ver/espn.php
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/espn.png",espn2 telerium
+https://telerium.me/espn2.php
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/espn3.png",espn3 telerium
+https://telerium.me/espn3.php
+#EXTINF:-1 tvg-logo="https://futbolfullenvivo.nl/imagenes/espn-premium.png",espn-premium
+https://futbolfullenvivo.nl/canales/espn-premium/op4.php
+#EXTINF:-1 tvg-logo="https://futbolfullenvivo.nl/imagenes/espnextra.png",espnextra
+https://futbolfullenvivo.nl/canales/espnextra/op4.php
+
+#EXTINF:-1 tvg-logo="https://futbolfullenvivo.nl/imagenes/win.png",winsports
+https://latele-envivo.com/Deportes/winsports/
+#EXTINF:-1 tvg-logo="https://futbolfullenvivo.nl/imagenes/win.png",winsport2
+https://futbolfullenvivo.nl/canales/winsports/op3.php
+https://futbolfullenvivo.nl/canales/winsports/op2.php
+#EXTINF:-1 tvg-logo="https://futbolfullenvivo.nl/imagenes/dazn1es.png",dazn1-es/op2
+https://futbolfullenvivo.nl/dazn-1-online-en-directo/
+https://futbolfullenvivo.nl/canales/dazn1-es/op2.php
+#EXTINF:-1 tvg-logo="https://futbolfullenvivo.nl/imagenes/dazn2es.png",dazn2-es/op2
+https://futbolfullenvivo.nl/dazn-2-online-en-directo/
+https://futbolfullenvivo.nl/canales/dazn2-es/op2.php
+#EXTINF:-1 tvg-logo="https://futbolfullenvivo.nl/imagenes/dazn-laliga1.png",dazn-laliga1
+https://futbolfullenvivo.nl/dazn-laliga-en-vivo/
+https://futbolfullenvivo.nl/canales/dazn-laliga/op2.php
+#EXTINF:-1 tvg-logo="https://futbolfullenvivo.nl/imagenes/m-laliga.png",laliga/op2
+https://futbolfullenvivo.nl/canales/laliga/op2.php
+#EXTINF:-1 tvg-logo="https://futbolfullenvivo.nl/imagenes/campeoness.png",laliga-campeones
+https://futbolfullenvivo.nl/canales/campeones/op2.php
+
+#EXTINF:-1 tvg-logo="https://futbolfullenvivo.nl/imagenes/foxsports.png",fox-sports/op2
+https://futbolfullenvivo.nl/canales/fox-sports/op3.php
+
+#EXTINF:-1 tvg-logo="https://futbolfullenvivo.nl/imagenes/foxsports2.png",fox-sports2/op2
+https://futbolfullenvivo.nl/canales/fox-sports2/op3.php
+
+
+
+#EXTINF:-1 tvg-logo="https://futbolfullenvivo.nl/imagenes/foxsports3.png",fox-sports3/op2
+https://futbolfullenvivo.nl/canales/fox-sports3/op3.php
+#EXTINF:-1 tvg-logo="https://futbolfullenvivo.nl/imagenes/beinlatino.png",beinlatino
+https://futbolfullenvivo.nl/canales/bein-es/op2.php
+#EXTINF:-1 tvg-logo="https://futbolfullenvivo.nl/imagenes/eurosport1.png",eurosport1-p
+https://futbolfullenvivo.nl/canales/eurosport1-es/op2.php
+#EXTINF:-1 tvg-logo="https://futbolfullenvivo.nl/imagenes/eurosport2.png",eurosport2
+https://futbolfullenvivo.nl/canales/eurosport2-es/op2.php
+
+#EXTINF:-1 tvg-logo="https://futbolfullenvivo.nl/imagenes/itv1.png",itv1
+https://futbolfullenvivo.nl/itv1-uk-en-vivo/
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://futbolfullenvivo.nl/imagenes/dazn1de.png",DAZN DE
+https://futbolfullenvivo.nl/canales/dazn1-de/op2.php
+
+#EXTINF:-1 tvg-logo="https://futbolfullenvivo.nl/imagenes/teledeporte.png",teledeporte
+https://futbolfullenvivo.nl/eventos/?r=aHR0cHM6Ly9mdWxsZGVwb3J0ZXMubGl2ZS9jYW5hbGVzL3RkcGVzLnBocA==
+#EXTINF:-1 tvg-logo="https://futbolfullenvivo.nl/imagenes/teledeporte.png",teledeporte 2
+https://futbolfullenvivo.nl/
+
+#EXTINF:-1 tvg-logo="",
+
 #EXTINF:-1 tvg-logo="",
