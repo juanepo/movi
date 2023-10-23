@@ -63,7 +63,14 @@
 			"info": "42c4",
 			"image": "https://i.ibb.co/FJch0Y9/Cuatro.jpg",
 			"url": "acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4"
-			},
+	{
+			"name": "TeleCinco",
+			"info":"32b5",
+			"image": "https://www.movistarplus.es/recorte/m-NEO/canal/T5.png",
+			"url": "https://cabletvhd.xyz/en-vivo/telecinco"
+"embed":"true"
+			},	
+
 {
 "name":"NATGEO OP2 ",
 "info":"NEW 1080p",
