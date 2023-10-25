@@ -7,14 +7,14 @@
   "groups": [
                 
                                {  
-                    "name":"DRAMA",
-                    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsNrwEryknenvRwBQBI3Ywnp8hlF7uMGWHpwe1K0ihktY9kwLLsw",
+                    "name":"ESPAÑA ",
+                    "image":"https://i.postimg.cc/NfQ1LMZP/logo-spain.png",
                     "imageScale": "centerCrop",
                     "groups":
                    [ 
                        {  
-                    "name":"La casa de papel (2017)Serie de TV (2017-Actualidad). Un misterioso personaje, que se hace llamar El Profesor, planea el mayor de los atracos jamás ideado. Para llevar a cabo el ambicioso plan, recluta a una banda formada por personas con ciertas cualidades y algo en común: no tienen nada que perder. El objetivo es atracar la Fábrica Nacional de Moneda y Timbre, con la intención de quedarse encerrados dentro con una misión muy concreta: no robar dinero, sino crearlo. Tras cinco meses de reclusión, memorizando cada paso, cada detalle, cada probabilidad..., por fin llega el día. Les esperan once días de encierro en la Fábrica de Moneda, rodeados de los cuerpos de élite de la policía y con 67 rehenes en su poder.",
-                    "image":"https://pics.filmaffinity.com/la_casa_de_papel_tv_series-881509276-mmed.jpg",
+                    "name":"CANANLES ES",
+                    "image":"https://i.postimg.cc/NfQ1LMZP/logo-spain.png",
                     "imageScale": "centerCrop",
    
                     "groups":
@@ -5568,12 +5568,7 @@
                                "stations": 
                                     [
                   
-                                       {
-                                        "name": "  ",
-                                        "image": " ",
-                                        "url": " ",
-                                        "isHost": "true"
-                                         },
+                                      
 
                                         {
                                          "name": "  ",
