@@ -68,7 +68,8 @@
 			"info":"32b5",
 			"image": "https://www.movistarplus.es/recorte/m-NEO/canal/T5.png",
 			"url": "https://telefullenvivo.com/telecinco-online-en-directo/"
-			},
+"embed":true},
+			
 			{
 			"name": "BE MAD [1080]",
 			"info": "770c",
