@@ -5,17 +5,20 @@
 "contact":"","info":"","groups": [
 {"logo":"♦♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️",
 "name": "CANALES TV",
-"image": "https://i.postimg.cc/NfQ1LMZP/logo-spain.png","groups":[
-{"name": "ESPAÑA ",
+"image": "https://cinemas-online.co.uk/includes/images/partners/empire-cinema.png","groups":[
+{"name": "CANALES CINE",
 "image": "https://www.nosolocine.net/wp-content/uploads/2016/02/1logoimg.png",
 "info":"Para que funcionen los canales es necesario instalar un Vpn","groups":[ 
-{"name": "CANALES",
+{"name": "Cine LAT",
 "image": "https://comparaiso.es/sites/default/files/styles/_default/public/pluto-tv-100x100.png.webp","imageScale": "",
 "info":"Para que funcionen los canales es necesario instalar un Vpn","stations":[
-{"name": "ANTENA 3",
-"image": "https://telefullenvivo.nl/imagenes2/la3.png",
-"url":"https://telefullenvivo.nl/antena-3-online-en-directo/",
-"embed":"true"},
+{
+		{"name": "TeleCinco",
+			"info":"32b5",
+			"image": "https://www.movistarplus.es/recorte/m-NEO/canal/T5.png",
+			"url": "https://cabletvhd.xyz/en-vivo/telecinco"
+            "embed":"true"},
+			
 {"name": "FOX ACTION",
 "image": "https://salvatv.xyz/wp-content/uploads/2020/11/696.png",
 "url":"https://salvatv.xyz/70x-4c710n/","referer":"https://salvatv.xyz/",
