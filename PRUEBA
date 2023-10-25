@@ -27,11 +27,11 @@
 							   "imageScale": "centerCrop",
                                "stations": 
                                     [
-                  {
-                                        "name": "ANTENA  3",
-                                        "image": " https://telefullenvivo.nl/imagenes2/la3.png",
+                                     {
+                     "name": "ANTENA  3",
+                                        "image": "https://telefullenvivo.nl/imagenes2/la3.png",
                                         "url": "https://telefullenvivo.nl/antena-3-online-en-directo/ ",
-                                        "isHost": "true"
+                                       "embed":"true"
                                          },
                                         
                                        
