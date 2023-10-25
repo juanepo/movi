@@ -19,25 +19,32 @@
                         
                  
                  {
-                               "name": "TEMPORADA 1",
-                               "image": "https://3.bp.blogspot.com/-7inYfDJJbLk/W374i6-atGI/AAAAAAAAK3M/ppgqcXHx8dkE8m2rIszVx58Rp8ilwO_BwCLcBGAs/s1600/dv.jpg",
+                               "name": "ESPAÑOLES ",
+                               "image": "https://i.postimg.cc/NfQ1LMZP/logo-spain.png",
 							   "imageScale": "centerCrop",
                                "stations": 
                                     [
                   
                                         
                                        {
-                                         "name": "🇪🇸1X01",
-                                         "image": "https://3.bp.blogspot.com/-7inYfDJJbLk/W374i6-atGI/AAAAAAAAK3M/ppgqcXHx8dkE8m2rIszVx58Rp8ilwO_BwCLcBGAs/s1600/dv.jpg",
+                                         "name": "ANTENA 3",
+                                         "image": "https://i.postimg.cc/NfQ1LMZP/logo-spain.png",
                                          "imageScale": "centerCrop",
-                                         "url": "https://streamango.com/f/pfcaomnpsfqappee/1x01_-_Episodio_1_-_La_casa_de_papel_mp4",
-                                         "embed": "true"
+                                         "url": "https://telefullenvivo.nl/antena-3-online-en-directo/",
+                                         
                                        },
                                        {
-                                         "name": "🇪🇸1X02",
-                                         "image": "https://3.bp.blogspot.com/-7inYfDJJbLk/W374i6-atGI/AAAAAAAAK3M/ppgqcXHx8dkE8m2rIszVx58Rp8ilwO_BwCLcBGAs/s1600/dv.jpg",
+                                          "name": "ANTENA 3 OP 2",
+                                         "image": "https://i.postimg.cc/NfQ1LMZP/logo-spain.png",
                                          "imageScale": "centerCrop",
-                                         "url": "https://streamango.com/f/sooaoapmeqnkbtqo/1x02_-_Episodio_2_-_La_casa_de_papel_mp4",
+                                         "url": "https://www.telegratishd.com/antena-3-en-vivo.html",
+                                         "embed": "true"
+                                       },
+
+                                        {  "name": "ANTENA 3 OP 3",
+                                         "image": "https://i.postimg.cc/NfQ1LMZP/logo-spain.png",
+                                         "imageScale": "centerCrop",
+                                         "url": "https://cabletvhd.xyz/en-vivo/telecinco",
                                          "embed": "true"
                                        },
                                        {
