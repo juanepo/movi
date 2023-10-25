@@ -5,16 +5,16 @@
 "contact":"","info":"","groups": [
 {"logo":"♦♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️",
 "name": "CANALES TV",
-"image": "https://cinemas-online.co.uk/includes/images/partners/empire-cinema.png","groups":[
-{"name": "CANALES CINE",
+"image": "https://i.postimg.cc/NfQ1LMZP/logo-spain.png","groups":[
+{"name": "ESPAÑA ",
 "image": "https://www.nosolocine.net/wp-content/uploads/2016/02/1logoimg.png",
 "info":"Para que funcionen los canales es necesario instalar un Vpn","groups":[ 
-{"name": "Cine LAT",
+{"name": "CANALES",
 "image": "https://comparaiso.es/sites/default/files/styles/_default/public/pluto-tv-100x100.png.webp","imageScale": "",
 "info":"Para que funcionen los canales es necesario instalar un Vpn","stations":[
-{"name": "#0",
-"image": "http://vignette2.wikia.nocookie.net/logopedia/images/d/d9/Cero3.png/revision/latest?cb=20160313142148",
-"url":"https://adictosalatele.com/TV/espana/canal-0-plus/","referer":"https://adictosalatele.com/TV/espana/",
+{"name": "ANTENA 3",
+"image": "https://telefullenvivo.nl/imagenes2/la3.png",
+"url":"https://telefullenvivo.nl/antena-3-online-en-directo/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36 OPR/72.0.3815.400","isHost":true},
 {"name": "FOX ACTION",
 "image": "https://salvatv.xyz/wp-content/uploads/2020/11/696.png",
