@@ -1,6 +1,6 @@
 {
-  "name": "SERIES PLUS",
-  "author": "listaswisplay.com",
+  "name": "PRUEBA",
+  "author": "PRUEBA",
 
 "image": "https://www.vanidad.es/wp-content/uploads/2018/03/series.gif",
 
@@ -27,13 +27,17 @@
 							   "imageScale": "centerCrop",
                                "stations": 
                                     [
-                                     {
-                     "name": "ANTENA  3",
+                                     
+                    { "name": "ANTENA  3",
                                         "image": "https://telefullenvivo.nl/imagenes2/la3.png",
                                         "url": "https://telefullenvivo.nl/antena-3-online-en-directo/ ",
                                        "embed":"true"
                                          },
-                                        
+                                       { "name": "ANTENA  3",OP 2
+                                        "image": "https://telefullenvivo.nl/imagenes2/la3.png",
+                                        "url": "https://telefullenvivo.nl/antena-3-online-en-directo/ ",
+                                       "embed":"true"
+                                         },
                                        
                                      ]
                         },
