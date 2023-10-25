@@ -1,44 +1,95 @@
 {
-  "name": "PRUEBA",
-  "author": "PRUEBA",
-
+  "name": "PRUEBA ",
+  "author": "PRUEBA ",
+  
 "image": "https://www.vanidad.es/wp-content/uploads/2018/03/series.gif",
 
   "groups": [
                 
                                {  
-                    "name":"ESPAÑA ",
+                    "name":"CANALES TV",
                     "image":"https://i.postimg.cc/NfQ1LMZP/logo-spain.png",
                     "imageScale": "centerCrop",
                     "groups":
                    [ 
                        {  
-                    "name":"CANANLES ES",
-                    "image":"https://i.postimg.cc/NfQ1LMZP/logo-spain.png",
-                    "imageScale": "centerCrop",
-   
+                   
                     "groups":
                    [ 
                         
                  
                  {
-                               "name": "CANALES",
+                               "name": "TEMPORADA 1",
                                "image": "https://3.bp.blogspot.com/-7inYfDJJbLk/W374i6-atGI/AAAAAAAAK3M/ppgqcXHx8dkE8m2rIszVx58Rp8ilwO_BwCLcBGAs/s1600/dv.jpg",
 							   "imageScale": "centerCrop",
                                "stations": 
                                     [
-                                     
-                    { "name": "ANTENA  3",
-                                        "image": "https://telefullenvivo.nl/imagenes2/la3.png",
-                                        "url": "https://telefullenvivo.nl/antena-3-online-en-directo/ ",
-                                       "embed":"true"
-                                         },
-                                       { "name": "ANTENA  3",OP 2
-                                        "image": "https://telefullenvivo.nl/imagenes2/la3.png",
-                                        "url": "https://telefullenvivo.nl/antena-3-online-en-directo/ ",
-                                       "embed":"true"
-                                         },
-                                       
+                  
+                                        
+                                       {
+                                         "name": "🇪🇸1X01",
+                                         "image": "https://3.bp.blogspot.com/-7inYfDJJbLk/W374i6-atGI/AAAAAAAAK3M/ppgqcXHx8dkE8m2rIszVx58Rp8ilwO_BwCLcBGAs/s1600/dv.jpg",
+                                         "imageScale": "centerCrop",
+                                         "url": "https://streamango.com/f/pfcaomnpsfqappee/1x01_-_Episodio_1_-_La_casa_de_papel_mp4",
+                                         "embed": "true"
+                                       },
+                                       {
+                                         "name": "🇪🇸1X02",
+                                         "image": "https://3.bp.blogspot.com/-7inYfDJJbLk/W374i6-atGI/AAAAAAAAK3M/ppgqcXHx8dkE8m2rIszVx58Rp8ilwO_BwCLcBGAs/s1600/dv.jpg",
+                                         "imageScale": "centerCrop",
+                                         "url": "https://streamango.com/f/sooaoapmeqnkbtqo/1x02_-_Episodio_2_-_La_casa_de_papel_mp4",
+                                         "embed": "true"
+                                       },
+                                       {
+                                         "name": "🇪🇸1X03",
+                                         "image": "https://3.bp.blogspot.com/-7inYfDJJbLk/W374i6-atGI/AAAAAAAAK3M/ppgqcXHx8dkE8m2rIszVx58Rp8ilwO_BwCLcBGAs/s1600/dv.jpg",
+                                         "imageScale": "centerCrop",
+                                         "url": "https://streamango.com/f/cbdkretmlapoeonr/1x03_-_Episodio_3_-_La_casa_de_papel_mp4",
+                                         "embed": "true"
+                                       },
+                                       {
+                                         "name": "🇪🇸1X04",
+                                         "image": "https://3.bp.blogspot.com/-7inYfDJJbLk/W374i6-atGI/AAAAAAAAK3M/ppgqcXHx8dkE8m2rIszVx58Rp8ilwO_BwCLcBGAs/s1600/dv.jpg",
+                                         "imageScale": "centerCrop",
+                                         "url": "https://streamango.com/f/mlqedneaddtqbcok/1x04_-_Episodio_4_-_La_casa_de_papel_mp4",
+                                         "embed": "true"
+                                       },
+                                       {
+                                         "name": "🇪🇸1X05",
+                                         "image": "https://3.bp.blogspot.com/-7inYfDJJbLk/W374i6-atGI/AAAAAAAAK3M/ppgqcXHx8dkE8m2rIszVx58Rp8ilwO_BwCLcBGAs/s1600/dv.jpg",
+                                         "imageScale": "centerCrop",
+                                         "url": "https://streamango.com/f/tanoeocrbnfmqskr/1x05_-_Episodio_5_-_La_casa_de_papel_mp4",
+                                         "embed": "true"
+                                       },
+                                       {
+                                         "name": "🇪🇸1X06",
+                                         "image": "https://3.bp.blogspot.com/-7inYfDJJbLk/W374i6-atGI/AAAAAAAAK3M/ppgqcXHx8dkE8m2rIszVx58Rp8ilwO_BwCLcBGAs/s1600/dv.jpg",
+                                         "imageScale": "centerCrop",
+                                         "url": "https://streamango.com/f/oerdoesraporctqf/1x06_-_Episodio_6_-_La_casa_de_papel_mp4",
+                                         "embed": "true"
+                                       },
+                                       {
+                                         "name": "🇪🇸1X07",
+                                         "image": "https://3.bp.blogspot.com/-7inYfDJJbLk/W374i6-atGI/AAAAAAAAK3M/ppgqcXHx8dkE8m2rIszVx58Rp8ilwO_BwCLcBGAs/s1600/dv.jpg",
+                                         "imageScale": "centerCrop",
+                                         "url": "https://streamango.com/f/crqloqccqosbpamc/1x07_-_Episodio_7_-_La_casa_de_papel_mp4",
+                                         "embed": "true"
+                                       },
+                                       {
+                                         "name": "🇪🇸1X08",
+                                         "image": "https://3.bp.blogspot.com/-7inYfDJJbLk/W374i6-atGI/AAAAAAAAK3M/ppgqcXHx8dkE8m2rIszVx58Rp8ilwO_BwCLcBGAs/s1600/dv.jpg",
+                                         "imageScale": "centerCrop",
+                                         "url": "https://streamango.com/f/monlesftckttndsd/1x08_-_Episodio_8_-_La_casa_de_papel_mp4",
+                                         "embed": "true"
+                                       },
+                                       {
+                                         "name": "🇪🇸1X09",
+                                         "image": "https://3.bp.blogspot.com/-7inYfDJJbLk/W374i6-atGI/AAAAAAAAK3M/ppgqcXHx8dkE8m2rIszVx58Rp8ilwO_BwCLcBGAs/s1600/dv.jpg",
+                                         "imageScale": "centerCrop",
+                                         "url": "https://streamango.com/f/dlserfnbpdeeolts/1x09_-_Episodio_9_-_La_casa_de_papel_mp4",
+                                         "embed": "true"
+                                       }
+
                                      ]
                         },
                         {
@@ -5514,7 +5565,12 @@
                                "stations": 
                                     [
                   
-                                      
+                                       {
+                                        "name": "  ",
+                                        "image": " ",
+                                        "url": " ",
+                                        "isHost": "true"
+                                         },
 
                                         {
                                          "name": "  ",
