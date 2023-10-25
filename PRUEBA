@@ -1,25 +1,28 @@
 {
-  "name": "PRUEBAS",
-  "author": "PRUEBA",
+  "name": "PREBAS",
+ 
 
 "image": "https://www.vanidad.es/wp-content/uploads/2018/03/series.gif",
 
   "groups": [
                 
                                {  
-                    "name":"TV",
+                    "name":"PREBAS",
                     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsNrwEryknenvRwBQBI3Ywnp8hlF7uMGWHpwe1K0ihktY9kwLLsw",
                     "imageScale": "centerCrop",
                     "groups":
                    [ 
-                      
+                       {  
+                    
+                    "image":"https://i.postimg.cc/NfQ1LMZP/logo-spain.png",
+                    "imageScale": "centerCrop",
    
                     "groups":
                    [ 
                         
                  
                  {
-                               "name": "TEMPORADA 1",
+                               "name": "CANALES",
                                "image": "https://3.bp.blogspot.com/-7inYfDJJbLk/W374i6-atGI/AAAAAAAAK3M/ppgqcXHx8dkE8m2rIszVx58Rp8ilwO_BwCLcBGAs/s1600/dv.jpg",
 							   "imageScale": "centerCrop",
                                "stations": 
@@ -27,10 +30,10 @@
                   
                                         
                                        {
-                                         "name": "ANTENA 3",
+                                         "name": "🇪🇸1X01",
                                          "image": "https://3.bp.blogspot.com/-7inYfDJJbLk/W374i6-atGI/AAAAAAAAK3M/ppgqcXHx8dkE8m2rIszVx58Rp8ilwO_BwCLcBGAs/s1600/dv.jpg",
                                          "imageScale": "centerCrop",
-                                         "url": "https://cabletvhd.xyz/en-vivo/antena3",
+                                         "url": "https://streamango.com/f/pfcaomnpsfqappee/1x01_-_Episodio_1_-_La_casa_de_papel_mp4",
                                          "embed": "true"
                                        },
                                        {
