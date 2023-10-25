@@ -1,10 +1,9 @@
 {
-    "name": "PRUEBA",
-    "author": "🅰️🅳🅾️🆂",
+    "name": "AcEStREAM iDs",
+    "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+    
+    "image": "https://images3.alphacoders.com/595/595865.jpg",
    
-   
-    "telegram": "Lista_AF1CIONADOS",
-    "info": "Lista recopilada de Ids. bY. Lukas",
     "groups": 
 	[
 
@@ -60,25 +59,16 @@
 			},
 			{
 			"name": "CUATRO TV",
-		
+			"info": "42c4",
 			"image": "https://i.ibb.co/FJch0Y9/Cuatro.jpg",
 			"url": "acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4"
-	{
+			},
+			{
 			"name": "TeleCinco",
-			
+			"info":"32b5",
 			"image": "https://www.movistarplus.es/recorte/m-NEO/canal/T5.png",
-			"url": "https://cabletvhd.xyz/en-vivo/telecinco"
-"embed":"true"
-			},	
-
-{
-"name":"NATGEO OP2 ",
-"info":"NEW 1080p",
-"image":"https://telefullenvivo.com/imagenes2/national-geographic.png",
-"url":"https://cabletvhd.xyz/en-vivo/natgeo",
-"embed":"true"
-},
-			
+			"url": "acestream://bb1982ae8d2d409d4ccd7a9f498042684e3532b5"
+			},
 			{
 			"name": "BE MAD [1080]",
 			"info": "770c",
