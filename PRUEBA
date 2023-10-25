@@ -12,13 +12,10 @@
 {"name": "Cine LAT",
 "image": "https://comparaiso.es/sites/default/files/styles/_default/public/pluto-tv-100x100.png.webp","imageScale": "",
 "info":"Para que funcionen los canales es necesario instalar un Vpn","stations":[
-{
-		{"name": "TeleCinco",
-			"info":"32b5",
-			"image": "https://www.movistarplus.es/recorte/m-NEO/canal/T5.png",
-			"url": "https://cabletvhd.xyz/en-vivo/telecinco"
-            "embed":"true"},
-			
+{"name": "#0",
+"image": "http://vignette2.wikia.nocookie.net/logopedia/images/d/d9/Cero3.png/revision/latest?cb=20160313142148",
+"url":"https://adictosalatele.com/TV/espana/canal-0-plus/","referer":"https://adictosalatele.com/TV/espana/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36 OPR/72.0.3815.400","isHost":true},
 {"name": "FOX ACTION",
 "image": "https://salvatv.xyz/wp-content/uploads/2020/11/696.png",
 "url":"https://salvatv.xyz/70x-4c710n/","referer":"https://salvatv.xyz/",
