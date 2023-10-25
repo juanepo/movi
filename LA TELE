@@ -19,7 +19,8 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/la4.png",CUATRO
 https://latele-envivo.com/Spain/lacuatro/
-
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/la4.png",CUATRO OP2
+https://telefullenvivo.nl/la-cuatro-online-en-directo/
 #EXTINF:-1 tvg-logo="https://telefullenvivo.nl/imagenes2/la5.png",TELE 5
 https://telefullenvivo.nl/telecinco-online-en-directo/
 
@@ -37,24 +38,25 @@ https://www.telegratishd.com/odisea-en-vivo.html
 https://www.telegratishd.com/movistar-liga-de-campeones-en-vivo.html
 #EXTINF:-1 tvg-logo="https://www.telegratishd.com/imge/beinlaliga.png",bein-la-liga
 https://www.telegratishd.com/bein-la-liga-en-vivo.html
-#EXTINF:-1 tvg-logo="https://www.telegratishd.com/imge/movistarligadecampeones.png",daznlaliga
-https://www.telegratishd.com/imge/daznlaliga.png
+#EXTINF:-1 tvg-logo="https://www.telegratishd.com/imge/daznlaliga.png",dazn laliga
+https://www.telegratishd.com/dazn-la-liga-en-vivo.html
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qQmsSPW/Flag-map-of-Colombia-svg.png",CANALES LATININOS
 https://i.postimg.cc/NfQ1LMZP/logo-spain.png
 
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/national-geographic.png",NATGEO
 https://www.telegratishd.com/nat-geo-en-vivo.html
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/national-geographic.png",NATGEO OP2
-https://cabletvhd.xyz/en-vivo/natgeo
+https://telefullenvivo.nl/national-geographic-en-vivo/
 
 
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.chatytvgratishd.me/wp-content/uploads/2014/11/banner_caracol.png?w=480&ssl=1",caracolHD
 https://www.telegratishd.com/caracol-en-vivo.html
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.chatytvgratishd.me/wp-content/uploads/2014/11/banner_caracol.png?w=480&ssl=1",caracolHD 2
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.chatytvgratishd.me/wp-content/uploads/2014/11/banner_caracol.png?w=480&ssl=1",caracolHD OP2
 https://tucanaldeportivo.com/ver/caracol.php
-
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.chatytvgratishd.me/wp-content/uploads/2014/11/banner_caracol.png?w=480&ssl=1",caracolHD OP 3
+https://telefullenvivo.nl/caracol-tv-en-vivo/
 #EXTINF:-1 tvg-logo="https://telefullenvivo.nl/imagenes2/star-channel.png",star-channel
 https://www.telegratishd.com/star-channel-en-vivo.html
 #EXTINF:-1 tvg-logo="https://www.telegratishd.com/imge/staraction.png",star-action
