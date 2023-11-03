@@ -8,7 +8,7 @@ https://mdstrm.com/video/623b80ccaeb2e7082d3b008a.m3u8?uid=nNlL7cXbtdoYBkfWJr2bs
 
 
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/caracoltv.png",CARACOL TV
-https://250weu.bozztv.com/ssh101/ssh101/chatytvgratis/chunks.m3u8
+https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/3csP3jVSTr-D1F-4lpxWng/stream/4dcc9f4b-c9a2-4f5d-933d-3f2c9afd5cd8:CHS/master.m3u8?uid=QGfTtDrAPPefanMpuquMQm2N9FKYmwre&sid=iyYDO5wmfVIHBzDx6CfAFryw0SqLNH16&pid=5y3uzZrAwMNhaPhSUO2ULCuB7T0B9LWN&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&listenerid=&dnt=true&ote=1699092371371&ot=PdWxWIgefk5FGJI8cFtsyw&es=us-b4-p-e-zs14.cdn.mdstrm.com&proto=https&pz=us&aid=574462d1cab0f4d50866f001
 
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/la1.png",TVE 1
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_360.m3u8
@@ -21,12 +21,13 @@ http://144.202.61.145/solcruel/get.php?id=353133204c41543a2048424f204844&type=ma
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/hbo.png",HBO
 http://144.202.61.145/solcruel/get.php?id=353133204c41543a2048424f204844&type=master.m3u8
-#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/Univision.png",UNIVISION P
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/Univision.png",UNIVISION 
+
 http://172.232.171.138/solcruel/get.php?id=313133204c41543a20556e69766973696f6e204844&type=master.m3u8
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/national-geographic.png",NATGEO
-http://172.232.171.138/solcruel/get.php?id=3138342045533a204e6174696f6e616c2047656f67726170686963204844&type=master.m3u8
+http://144.202.61.145/solcruel/get.php?id=3138342045533a204e6174696f6e616c2047656f67726170686963204844&type=master.m3u8
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/gourmet.png",gourmet
-http://video.elezoria.online:8081/4012/hls/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDIzIDEwOjE2OjAzIEFNJmhhc2hfdmFsdWU9R211Z1hPY3RSYjVsbVJDSzYxWUY1Zz09JnZhbGlkbWludXRlcz0yMjA=
+http://144.202.61.145/solcruel/get.php?id=333133204c41543a20456c20476f75726d6574204844&type=master.m3u8
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/discovery-theater.png",NATGEO WILD
 acestream://394354a04edd738876b8b2ecab15d4765d33b37f
 #EXTINF:-1 tvg-logo="https://telefullenvivo.nl/imagenes2/star-channel.png",STAR PLUS
