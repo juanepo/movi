@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/caracoltv.png",caracoltv
-http://172.233.218.187:8081/saxory/h1/playlist.m3u8
-
+http://172.232.7.124:8081/zplay/dzplaycaracol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.chatytvgratishd.me/wp-content/uploads/2023/04/banner_cablenoticias-1.png?w=480&ssl=1",cable-noticias
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/chunklist_w927475175.m3u8
 #EXTINF:-1 tvg-logo="https://images.canal1.com.co/site/images/logo_1_como_tu_color.png",CANAL UNO
@@ -17,8 +16,7 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_360.m3u8
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/la1.png",TVE 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/mission-impossible-dead-reckoning-part-one-1689741889.png",MISION IMPOSIBLE 
-https://server27.mxcdnab.online/newhls/65e3e2a6229dd302b0c85d297998f886/EP.0.0.v1.1691903765.720.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.senalcolombia.tv/themes/custom/colombia_subtheme/img/nuevo_home/logo.svg",SEÑAL  COLOMBIA 
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/hbo.png",HBO
@@ -40,3 +38,8 @@ http://173.255.201.122/saw/get.php?id=3137372045533a20446973636f7665727920436861
 #EXTINF:-1 tvg-logo="https://telefullenvivo.nl/imagenes2/discovery-hh.png",DISCOVERY HOME AND HEALT
 
 http://172.232.171.138/solcruel/get.php?id=333232204c41543a20486f6d6520616e64204865616c7468204844&type=master.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-justiciero-capitulo-final-1694872593.png",EL JUSTICIERO
+https://server25.peliscdn.online/newhls/d37054ee17c590da33b52f959c82d373/EP.0.2.v0.1694874415.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/mission-impossible-dead-reckoning-part-one-1689741889.png",MISION IMPOSIBLE 
+https://server27.mxcdnab.online/newhls/65e3e2a6229dd302b0c85d297998f886/EP.0.0.v1.1691903765.720.m3u8
