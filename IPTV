@@ -16,11 +16,11 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_360.m3u8
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/la1.png",TVE 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
-
+http://144.202.61.145/solcruel/get.php?id=353133204c41543a2048424f204844&type=master.m3u8
 #EXTINF:-1 tvg-logo="https://www.senalcolombia.tv/themes/custom/colombia_subtheme/img/nuevo_home/logo.svg",SEÑAL  COLOMBIA 
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/hbo.png",HBO
-http://video.elezoria.online:8081/3981/hls/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDIzIDExOjUxOjM5IEFNJmhhc2hfdmFsdWU9bHhSRWNERThuZ3lrd3NiSk9XcnQ0dz09JnZhbGlkbWludXRlcz0yMjA=
+http://144.202.61.145/solcruel/get.php?id=353133204c41543a2048424f204844&type=master.m3u8
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/Univision.png",UNIVISION P
 http://172.232.171.138/solcruel/get.php?id=313133204c41543a20556e69766973696f6e204844&type=master.m3u8
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/national-geographic.png",NATGEO
